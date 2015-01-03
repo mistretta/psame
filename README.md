@@ -20,7 +20,7 @@ hardware requirements
 
 You needed to buy or build cable in order to plug the rapsberry serial interface to the stove motherboard
 
-On my stoove there is a D-sub DA-15 connector 
+On my stove there is a D-sub DA-15 connector 
 
         pin 2 -> Rx
         pin 3 -> Tx
@@ -29,5 +29,5 @@ On my stoove there is a D-sub DA-15 connector
 
 Enjoy !!!
 
-For more informations, see my Blog
+For more informations, see my Blog http://www.10assembly.net/rika-raspberry-pi-part1/
 
